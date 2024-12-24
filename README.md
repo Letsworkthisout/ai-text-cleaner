@@ -10,7 +10,7 @@ A tool to clean and format AI chat output. It removes common introductions/concl
 - Copy formatted text for use in Word/Outlook
 
 ## Try It Out
-[Use the tool on CodePen]((https://codepen.io/Letsworkthisout/pen/azowKov))
+[Use the tool on CodePen](https://codepen.io/Letsworkthisout/pen/azowKov)
 
 ## How to Use
 1. Paste your AI chat text in the left panel
